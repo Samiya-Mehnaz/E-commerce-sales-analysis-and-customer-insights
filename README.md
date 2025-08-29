@@ -12,6 +12,9 @@ The challenge was to **clean, process, and analyze** the dataset to extract mean
 
 ---
 
+Dataset Source:  
+The raw dataset can be downloaded from [Kaggle – E-commerce Transactions](https://www.kaggle.com/datasets/carrie1/ecommerce-data).
+
 ## 🔍 Data Preparation  
 - Removed null values (especially `CustomerID`)  
 - Dropped duplicate rows  
@@ -20,7 +23,7 @@ The challenge was to **clean, process, and analyze** the dataset to extract mean
   - **TotalAmount = Quantity × UnitPrice**  
 
 Final cleaned dataset: **`ecommerce_final_cleaned.csv`**
-
+📂 Cleaned Dataset: [Download from Google Drive](https://drive.google.com/file/d/1xhf_HRD7Pchy1gWPk43AVwrVXb1XByDk/view?usp=sharing)
 ---
 
 ## 📊 Analysis & Visualizations  
