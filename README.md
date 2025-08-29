@@ -49,5 +49,3 @@ Final cleaned dataset: **`ecommerce_final_cleaned.csv`**
 - **GitHub** → Version control & portfolio showcase  
 
 ---
-
-## 📂 Project Structure  
